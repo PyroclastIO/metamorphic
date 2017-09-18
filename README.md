@@ -17,7 +17,7 @@ This library includes:
 ## Install
 
 ```clojure
-[org.onyxplatform/metamorphic "0.1.0-alpha1"]
+[io.pyroclast/metamorphic "0.1.0-alpha1"]
 ```
 
 ## What is this?
