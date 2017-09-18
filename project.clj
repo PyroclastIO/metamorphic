@@ -1,4 +1,4 @@
-(defproject io.pyroclast/metamorphic "0.1.0-alpha-SNAPSHOT"
+(defproject io.pyroclast/metamorphic "0.1.0-alpha1"
   :description "A complex event processing library for Clojure and ClojureScript."
   :url "https://github.com/onyx-platform/metamorphic"
   :license {:name "Eclipse Public License"
