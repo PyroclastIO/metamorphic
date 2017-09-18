@@ -241,7 +241,7 @@ Given the following pattern, display a visualization of the compiled state machi
     (v/visualize-nfa nfa))
 ```
 
-<img src="resources/nfa.png" width="80%">
+<img src="resources/nfa.png" width="78%">
 
 For a similar effect, you can also visualize the contents of the match buffer. The following won't display much
 for the previous example given that we aggressively clean up the match buffer when matches are found, but this is what you'd see
