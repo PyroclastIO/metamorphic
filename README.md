@@ -1,6 +1,6 @@
 # Metamorphic
 
-Metamorphic is a complex event processing library for Clojure and ClojureScript. Complex event processing is a technique for finding sequences of events that match a particular pattern in a stream.
+Metamorphic is a complex event processing (CEP) library for Clojure and ClojureScript. Complex event processing is a technique for finding sequences of events that match a particular pattern in a stream.
 
 This library includes:
 
